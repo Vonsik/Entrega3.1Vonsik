@@ -4,7 +4,7 @@ const ProductManager = require('./ProductManager');
 const app = express();
 const port = 8080;
 
-// Endpoint para obtener todos los productos o un número limitado de ellos
+
 app.get('/products', async (req, res) => {
   const limit = req.query.limit ? parseInt(req.query.limit) : undefined;
 
@@ -22,7 +22,7 @@ app.get('/products', async (req, res) => {
   }
 });
 
-// Endpoint para obtener un producto específico por su id
+
 app.get('/products/:pid', async (req, res) => {
   const productId = req.params.pid;
 
@@ -42,7 +42,7 @@ app.get('/products/:pid', async (req, res) => {
   }
 });
 
-// Iniciar el servidor
+
 app.listen(port, () => {
   console.log(`Servidor en funcionamiento en http://localhost:${port}`);
 });
