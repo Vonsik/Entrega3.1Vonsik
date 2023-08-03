@@ -1,0 +1,62 @@
+[
+    {
+      "producto": "Camiseta",
+      "talle": "M",
+      "precio": 25.99,
+      "id": "1"
+    },
+    {
+      "producto": "Pantalón",
+      "talle": "L",
+      "precio": 35.99,
+      "id": "2"
+    },
+    {
+      "producto": "Zapatillas",
+      "talle": "41",
+      "precio": 49.99,
+      "id": "3"
+    },
+    {
+      "producto": "Vestido",
+      "talle": "S",
+      "precio": 39.99,
+      "id": "4"
+    },
+    {
+      "producto": "Bufanda",
+      "talle": "Único",
+      "precio": 12.99,
+      "id": "5"
+    },
+    {
+      "producto": "Sombrero",
+      "talle": "M",
+      "precio": 18.99,
+      "id": "6"
+    },
+    {
+      "producto": "Chaqueta",
+      "talle": "XL",
+      "precio": 55.99,
+      "id": "7"
+    },
+    {
+      "producto": "Gorra",
+      "talle": "Único",
+      "precio": 14.99,
+      "id": "8"
+    },
+    {
+      "producto": "Shorts",
+      "talle": "L",
+      "precio": 27.99,
+      "id": "9"
+    },
+    {
+      "producto": "Calcetines",
+      "talle": "Único",
+      "precio": 6.99,
+      "id": "10"
+    }
+  ]
